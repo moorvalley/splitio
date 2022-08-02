@@ -20,11 +20,11 @@
 
 				all info is shared in a p2p fashion (like a torrent), so make sure to connect with your friends at the same time if something goes wrong.
 
-				built by cryptoboid with SvelteKit and GunDB.
+				built by amr with SvelteKit and GunDB.
 				<Button
 					on:click={() => {}}
 					variant="raised"
-					href="https://github.com/cryptoboid/splitio"
+					href="https://rentall.rikaz.tech/"
 					target="_blank"
 					rel="noopener noreferrer"
 					style="display: flex; margin-top: 1rem"
